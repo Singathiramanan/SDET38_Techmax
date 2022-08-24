@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2022-08-16T03:31:53Z" finished-at="2022-08-16T03:31:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2022-08-16T03:31:53Z" finished-at="2022-08-16T03:31:53Z">
+      <class name="com.techmax.practice.TestngDataprovider">
+        <test-method status="PASS" signature="getHeadsetList(java.lang.String, java.lang.String, int)[pri:0, instance:com.techmax.practice.TestngDataprovider@464bee09]" name="getHeadsetList" duration-ms="17" started-at="2022-08-16T03:31:53Z" data-provider="categoryAndProduct" finished-at="2022-08-16T03:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headset]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Boat]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadsetList -->
+        <test-method status="PASS" signature="getHeadsetList(java.lang.String, java.lang.String, int)[pri:0, instance:com.techmax.practice.TestngDataprovider@464bee09]" name="getHeadsetList" duration-ms="3" started-at="2022-08-16T03:31:53Z" data-provider="categoryAndProduct" finished-at="2022-08-16T03:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headset]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Boult]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadsetList -->
+        <test-method status="PASS" signature="getHeadsetList(java.lang.String, java.lang.String, int)[pri:0, instance:com.techmax.practice.TestngDataprovider@464bee09]" name="getHeadsetList" duration-ms="3" started-at="2022-08-16T03:31:53Z" data-provider="categoryAndProduct" finished-at="2022-08-16T03:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headset]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Noise]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadsetList -->
+        <test-method status="PASS" signature="getHeadsetList(java.lang.String, java.lang.String, int)[pri:0, instance:com.techmax.practice.TestngDataprovider@464bee09]" name="getHeadsetList" duration-ms="2" started-at="2022-08-16T03:31:53Z" data-provider="categoryAndProduct" finished-at="2022-08-16T03:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headset]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Leaf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadsetList -->
+        <test-method status="PASS" signature="getHeadsetList(java.lang.String, java.lang.String, int)[pri:0, instance:com.techmax.practice.TestngDataprovider@464bee09]" name="getHeadsetList" duration-ms="2" started-at="2022-08-16T03:31:53Z" data-provider="categoryAndProduct" finished-at="2022-08-16T03:31:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Headset]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Skull]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadsetList -->
+      </class> <!-- com.techmax.practice.TestngDataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
