@@ -9,7 +9,7 @@ public class TestngPriority {
 	}
 	@Test(priority=1)
 	public void createProduct(){
-		System.out.println("Product is created again");
+		System.out.println("Product is created again and again");
 	}
 	@Test(priority=2)
 	public void editProduct(){
